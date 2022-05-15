@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Matsya
+Description=Designed by Team MastyaUi
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/matsya/
+ScriptFile=/usr/share/plymouth/themes/matsya/matsya.script
